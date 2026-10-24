@@ -1,0 +1,3 @@
+# GitHub treats .sql as a "data" language and leaves it out of the
+# Languages bar by default. This makes the SQL scripts count.
+*.sql linguist-detectable=true linguist-language=SQL
