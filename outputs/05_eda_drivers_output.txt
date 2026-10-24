@@ -1,0 +1,230 @@
++--------------------+--------------+-------------+--------+------+---------+-------+---------+------------+
+| driver_name        | first_season | last_season | starts | wins | podiums | poles | win_pct | podium_pct |
++--------------------+--------------+-------------+--------+------+---------+-------+---------+------------+
+| Lewis Hamilton     |         2007 |        2026 |    397 |  106 |     208 |   104 |    26.7 |       52.4 |
+| Michael Schumacher |         1991 |        2012 |    307 |   91 |     155 |    68 |    29.6 |       50.5 |
+| Max Verstappen     |         2015 |        2026 |    250 |   73 |     136 |    50 |    29.2 |       54.4 |
+| Sebastian Vettel   |         2007 |        2022 |    299 |   53 |     122 |    57 |    17.7 |       40.8 |
+| Alain Prost        |         1980 |        1993 |    199 |   51 |     106 |    33 |    25.6 |       53.3 |
+| Ayrton Senna       |         1984 |        1994 |    161 |   41 |      80 |    65 |    25.5 |       49.7 |
+| Fernando Alonso    |         2001 |        2026 |    443 |   32 |     106 |    22 |     7.2 |       23.9 |
+| Nigel Mansell      |         1980 |        1995 |    187 |   31 |      59 |    32 |    16.6 |       31.6 |
+| Jackie Stewart     |         1965 |        1973 |     99 |   27 |      43 |    17 |    27.3 |       43.4 |
+| Niki Lauda         |         1971 |        1985 |    171 |   25 |      54 |    24 |    14.6 |       31.6 |
+| Jim Clark          |         1960 |        1968 |     72 |   25 |      32 |    33 |    34.7 |       44.4 |
+| Juan Fangio        |         1950 |        1958 |     51 |   24 |      35 |    29 |    47.1 |       68.6 |
+| Nelson Piquet      |         1978 |        1991 |    204 |   23 |      60 |    24 |    11.3 |       29.4 |
+| Nico Rosberg       |         2006 |        2016 |    206 |   23 |      57 |    30 |    11.2 |       27.7 |
+| Damon Hill         |         1992 |        1999 |    115 |   22 |      42 |    20 |    19.1 |       36.5 |
++--------------------+--------------+-------------+--------+------+---------+-------+---------+------------+
++--------------------+--------+------+---------+------------+---------------+
+| driver_name        | starts | wins | win_pct | podium_pct | win_rate_rank |
++--------------------+--------+------+---------+------------+---------------+
+| Juan Fangio        |     51 |   24 |    47.1 |       68.6 |             1 |
+| Jim Clark          |     72 |   25 |    34.7 |       44.4 |             2 |
+| Michael Schumacher |    307 |   91 |    29.6 |       50.5 |             3 |
+| Max Verstappen     |    250 |   73 |    29.2 |       54.4 |             4 |
+| Jackie Stewart     |     99 |   27 |    27.3 |       43.4 |             5 |
+| Lewis Hamilton     |    397 |  106 |    26.7 |       52.4 |             6 |
+| Alain Prost        |    199 |   51 |    25.6 |       53.3 |             7 |
+| Ayrton Senna       |    161 |   41 |    25.5 |       49.7 |             8 |
+| Stirling Moss      |     65 |   16 |    24.6 |       36.9 |             9 |
+| Damon Hill         |    115 |   22 |    19.1 |       36.5 |            10 |
+| Sebastian Vettel   |    299 |   53 |    17.7 |       40.8 |            11 |
+| Nigel Mansell      |    187 |   31 |    16.6 |       31.6 |            12 |
+| Niki Lauda         |    171 |   25 |    14.6 |       31.6 |            13 |
+| Mika Häkkinen      |    161 |   20 |    12.4 |       31.7 |            14 |
+| Nelson Piquet      |    204 |   23 |    11.3 |       29.4 |            15 |
++--------------------+--------+------+---------+------------+---------------+
++--------------------+--------+-------------------+---------------+
+| driver_name        | starts | points_2010_scale | pts_per_start |
++--------------------+--------+-------------------+---------------+
+| Juan Fangio        |     51 |               873 |         17.12 |
+| Max Verstappen     |    250 |              3487 |         13.95 |
+| Lewis Hamilton     |    397 |              5492 |         13.83 |
+| Michael Schumacher |    307 |              3890 |         12.67 |
+| Alain Prost        |    199 |              2483 |         12.48 |
+| Ayrton Senna       |    161 |              1881 |         11.68 |
+| Jim Clark          |     72 |               839 |         11.65 |
+| Jackie Stewart     |     99 |              1109 |         11.20 |
+| Sebastian Vettel   |    299 |              3287 |         10.99 |
+| Oscar Piastri      |     85 |               844 |          9.93 |
+| Damon Hill         |    115 |              1091 |          9.49 |
+| Stirling Moss      |     65 |               616 |          9.48 |
+| Charles Leclerc    |    188 |              1761 |          9.37 |
+| Lando Norris       |    168 |              1500 |          8.93 |
+| Juan Pablo Montoya |     94 |               825 |          8.78 |
++--------------------+--------+-------------------+---------------+
++--------+-----------------------+--------+------+----------------+------------+--------------------------+
+| season | champion              | points | wins | margin_over_p2 | margin_pct | runner_up                |
++--------+-----------------------+--------+------+----------------+------------+--------------------------+
+|   1950 | Nino Farina           |  30.00 |    3 |           3.00 |       10.0 | Juan Fangio              |
+|   1951 | Juan Fangio           |  31.00 |    3 |           6.00 |       19.4 | Alberto Ascari           |
+|   1952 | Alberto Ascari        |  36.00 |    6 |          12.00 |       33.3 | Nino Farina              |
+|   1953 | Alberto Ascari        |  34.50 |    5 |           6.50 |       18.8 | Juan Fangio              |
+|   1954 | Juan Fangio           |  42.00 |    6 |          16.86 |       40.1 | José Froilán González    |
+|   1955 | Juan Fangio           |  40.00 |    4 |          17.00 |       42.5 | Stirling Moss            |
+|   1956 | Juan Fangio           |  30.00 |    3 |           3.00 |       10.0 | Stirling Moss            |
+|   1957 | Juan Fangio           |  40.00 |    4 |          15.00 |       37.5 | Stirling Moss            |
+|   1958 | Mike Hawthorn         |  42.00 |    1 |           1.00 |        2.4 | Stirling Moss            |
+|   1959 | Jack Brabham          |  31.00 |    2 |           4.00 |       12.9 | Tony Brooks              |
+|   1960 | Jack Brabham          |  43.00 |    5 |           9.00 |       20.9 | Bruce McLaren            |
+|   1961 | Phil Hill             |  34.00 |    2 |           1.00 |        2.9 | Wolfgang von Trips       |
+|   1962 | Graham Hill           |  42.00 |    4 |          12.00 |       28.6 | Jim Clark                |
+|   1963 | Jim Clark             |  54.00 |    7 |          25.00 |       46.3 | Graham Hill              |
+|   1964 | John Surtees          |  40.00 |    2 |           1.00 |        2.5 | Graham Hill              |
+|   1965 | Jim Clark             |  54.00 |    6 |          14.00 |       25.9 | Graham Hill              |
+|   1966 | Jack Brabham          |  42.00 |    4 |          14.00 |       33.3 | John Surtees             |
+|   1967 | Denny Hulme           |  51.00 |    2 |           5.00 |        9.8 | Jack Brabham             |
+|   1968 | Graham Hill           |  48.00 |    3 |          12.00 |       25.0 | Jackie Stewart           |
+|   1969 | Jackie Stewart        |  63.00 |    6 |          26.00 |       41.3 | Jacky Ickx               |
+|   1970 | Jochen Rindt          |  45.00 |    5 |           5.00 |       11.1 | Jacky Ickx               |
+|   1971 | Jackie Stewart        |  62.00 |    6 |          29.00 |       46.8 | Ronnie Peterson          |
+|   1972 | Emerson Fittipaldi    |  61.00 |    5 |          16.00 |       26.2 | Jackie Stewart           |
+|   1973 | Jackie Stewart        |  71.00 |    5 |          16.00 |       22.5 | Emerson Fittipaldi       |
+|   1974 | Emerson Fittipaldi    |  55.00 |    3 |           3.00 |        5.5 | Clay Regazzoni           |
+|   1975 | Niki Lauda            |  64.50 |    5 |          19.50 |       30.2 | Emerson Fittipaldi       |
+|   1976 | James Hunt            |  69.00 |    6 |           1.00 |        1.4 | Niki Lauda               |
+|   1977 | Niki Lauda            |  72.00 |    3 |          17.00 |       23.6 | Jody Scheckter           |
+|   1978 | Mario Andretti        |  64.00 |    6 |          13.00 |       20.3 | Ronnie Peterson          |
+|   1979 | Jody Scheckter        |  51.00 |    3 |           4.00 |        7.8 | Gilles Villeneuve        |
+|   1980 | Alan Jones            |  67.00 |    5 |          13.00 |       19.4 | Nelson Piquet            |
+|   1981 | Nelson Piquet         |  50.00 |    3 |           1.00 |        2.0 | Carlos Reutemann         |
+|   1982 | Keke Rosberg          |  44.00 |    1 |           5.00 |       11.4 | Didier Pironi            |
+|   1983 | Nelson Piquet         |  59.00 |    3 |           2.00 |        3.4 | Alain Prost              |
+|   1984 | Niki Lauda            |  72.00 |    5 |           0.50 |        0.7 | Alain Prost              |
+|   1985 | Alain Prost           |  73.00 |    5 |          20.00 |       27.4 | Michele Alboreto         |
+|   1986 | Alain Prost           |  72.00 |    4 |           2.00 |        2.8 | Nigel Mansell            |
+|   1987 | Nelson Piquet         |  73.00 |    3 |          12.00 |       16.4 | Nigel Mansell            |
+|   1988 | Ayrton Senna          |  90.00 |    8 |           3.00 |        3.3 | Alain Prost              |
+|   1989 | Alain Prost           |  76.00 |    4 |          16.00 |       21.1 | Ayrton Senna             |
+|   1990 | Ayrton Senna          |  78.00 |    6 |           7.00 |        9.0 | Alain Prost              |
+|   1991 | Ayrton Senna          |  96.00 |    7 |          24.00 |       25.0 | Nigel Mansell            |
+|   1992 | Nigel Mansell         | 108.00 |    9 |          52.00 |       48.1 | Riccardo Patrese         |
+|   1993 | Alain Prost           |  99.00 |    7 |          26.00 |       26.3 | Ayrton Senna             |
+|   1994 | Michael Schumacher    |  92.00 |    8 |           1.00 |        1.1 | Damon Hill               |
+|   1995 | Michael Schumacher    | 102.00 |    9 |          33.00 |       32.4 | Damon Hill               |
+|   1996 | Damon Hill            |  97.00 |    8 |          19.00 |       19.6 | Jacques Villeneuve       |
+|   1997 | Jacques Villeneuve    |  81.00 |    7 |          39.00 |       48.1 | Heinz-Harald Frentzen    |
+|   1998 | Mika Häkkinen         | 100.00 |    8 |          14.00 |       14.0 | Michael Schumacher       |
+|   1999 | Mika Häkkinen         |  76.00 |    5 |           2.00 |        2.6 | Eddie Irvine             |
+|   2000 | Michael Schumacher    | 108.00 |    9 |          19.00 |       17.6 | Mika Häkkinen            |
+|   2001 | Michael Schumacher    | 123.00 |    9 |          58.00 |       47.2 | David Coulthard          |
+|   2002 | Michael Schumacher    | 144.00 |   11 |          67.00 |       46.5 | Rubens Barrichello       |
+|   2003 | Michael Schumacher    |  93.00 |    6 |           2.00 |        2.2 | Kimi Räikkönen           |
+|   2004 | Michael Schumacher    | 148.00 |   13 |          34.00 |       23.0 | Rubens Barrichello       |
+|   2005 | Fernando Alonso       | 133.00 |    7 |          21.00 |       15.8 | Kimi Räikkönen           |
+|   2006 | Fernando Alonso       | 134.00 |    7 |          13.00 |        9.7 | Michael Schumacher       |
+|   2007 | Kimi Räikkönen        | 110.00 |    6 |           1.00 |        0.9 | Lewis Hamilton           |
+|   2008 | Lewis Hamilton        |  98.00 |    5 |           1.00 |        1.0 | Felipe Massa             |
+|   2009 | Jenson Button         |  95.00 |    6 |          11.00 |       11.6 | Sebastian Vettel         |
+|   2010 | Sebastian Vettel      | 256.00 |    5 |           4.00 |        1.6 | Fernando Alonso          |
+|   2011 | Sebastian Vettel      | 392.00 |   11 |         122.00 |       31.1 | Jenson Button            |
+|   2012 | Sebastian Vettel      | 281.00 |    5 |           3.00 |        1.1 | Fernando Alonso          |
+|   2013 | Sebastian Vettel      | 397.00 |   13 |         155.00 |       39.0 | Fernando Alonso          |
+|   2014 | Lewis Hamilton        | 384.00 |   11 |          67.00 |       17.4 | Nico Rosberg             |
+|   2015 | Lewis Hamilton        | 381.00 |   10 |          59.00 |       15.5 | Nico Rosberg             |
+|   2016 | Nico Rosberg          | 385.00 |    9 |           5.00 |        1.3 | Lewis Hamilton           |
+|   2017 | Lewis Hamilton        | 363.00 |    9 |          46.00 |       12.7 | Sebastian Vettel         |
+|   2018 | Lewis Hamilton        | 408.00 |   11 |          88.00 |       21.6 | Sebastian Vettel         |
+|   2019 | Lewis Hamilton        | 413.00 |   11 |          87.00 |       21.1 | Valtteri Bottas          |
+|   2020 | Lewis Hamilton        | 347.00 |   11 |         124.00 |       35.7 | Valtteri Bottas          |
+|   2021 | Max Verstappen        | 395.50 |   10 |           8.00 |        2.0 | Lewis Hamilton           |
+|   2022 | Max Verstappen        | 454.00 |   15 |         146.00 |       32.2 | Charles Leclerc          |
+|   2023 | Max Verstappen        | 575.00 |   19 |         290.00 |       50.4 | Sergio Pérez             |
+|   2024 | Max Verstappen        | 437.00 |    9 |          63.00 |       14.4 | Lando Norris             |
+|   2025 | Lando Norris          | 423.00 |    7 |           2.00 |        0.5 | Max Verstappen           |
+|   2026 | Andrea Kimi Antonelli | 340.00 |    8 |         102.00 |       30.0 | George Russell           |
++--------+-----------------------+--------+------+----------------+------------+--------------------------+
++--------------------+--------+------------------------------------------+
+| full_name          | titles | seasons                                  |
++--------------------+--------+------------------------------------------+
+| Michael Schumacher |      7 | 1994, 1995, 2000, 2001, 2002, 2003, 2004 |
+| Lewis Hamilton     |      7 | 2008, 2014, 2015, 2017, 2018, 2019, 2020 |
+| Juan Fangio        |      5 | 1951, 1954, 1955, 1956, 1957             |
+| Alain Prost        |      4 | 1985, 1986, 1989, 1993                   |
+| Sebastian Vettel   |      4 | 2010, 2011, 2012, 2013                   |
+| Max Verstappen     |      4 | 2021, 2022, 2023, 2024                   |
+| Jack Brabham       |      3 | 1959, 1960, 1966                         |
+| Jackie Stewart     |      3 | 1969, 1971, 1973                         |
+| Niki Lauda         |      3 | 1975, 1977, 1984                         |
+| Nelson Piquet      |      3 | 1981, 1983, 1987                         |
+| Ayrton Senna       |      3 | 1988, 1990, 1991                         |
+| Alberto Ascari     |      2 | 1952, 1953                               |
+| Graham Hill        |      2 | 1962, 1968                               |
+| Jim Clark          |      2 | 1963, 1965                               |
+| Emerson Fittipaldi |      2 | 1972, 1974                               |
+| Mika Häkkinen      |      2 | 1998, 1999                               |
+| Fernando Alonso    |      2 | 2005, 2006                               |
++--------------------+--------+------------------------------------------+
++------------------+---------------------+------------+-----------+-----------+
+| driver_name      | classified_finishes | avg_finish | sd_finish | top10_pct |
++------------------+---------------------+------------+-----------+-----------+
+| Lewis Hamilton   |                 251 |       3.50 |      2.92 |      97.6 |
+| Max Verstappen   |                 216 |       3.55 |      3.33 |      96.3 |
+| Charles Leclerc  |                 162 |       5.36 |      3.62 |      90.1 |
+| Oscar Piastri    |                  79 |       5.77 |      4.13 |      84.8 |
+| Sebastian Vettel |                 160 |       6.08 |      4.41 |      80.0 |
+| Lando Norris     |                 155 |       6.30 |      4.33 |      86.5 |
+| Daniel Ricciardo |                 175 |       7.58 |      4.34 |      69.7 |
+| Valtteri Bottas  |                 213 |       7.80 |      5.49 |      67.6 |
+| Kimi Räikkönen   |                 136 |       7.96 |      4.44 |      67.6 |
+| Sergio Pérez     |                 217 |       7.98 |      4.46 |      75.1 |
+| Carlos Sainz     |                 205 |       8.05 |      4.08 |      74.6 |
+| George Russell   |                 150 |       8.16 |      5.43 |      66.0 |
+| Felipe Massa     |                  67 |       8.52 |      3.82 |      74.6 |
+| Fernando Alonso  |                 181 |       9.38 |      4.21 |      64.6 |
+| Nico Hülkenberg  |                 171 |      10.32 |      3.66 |      54.4 |
++------------------+---------------------+------------+-----------+-----------+
++----------------------+-------+----------+------------+-------------------+
+| driver_name          | races | avg_grid | avg_finish | avg_places_gained |
++----------------------+-------+----------+------------+-------------------+
+| Giancarlo Fisichella |   125 |     11.4 |        8.5 |              2.90 |
+| Nick Heidfeld        |   138 |     10.8 |        8.4 |              2.43 |
+| Lance Stroll         |   166 |     14.0 |       11.7 |              2.37 |
+| David Coulthard      |   115 |      8.8 |        6.7 |              2.12 |
+| Jenson Button        |   243 |      9.3 |        7.4 |              1.92 |
+| Sergio Pérez         |   254 |     10.1 |        8.3 |              1.82 |
+| Esteban Ocon         |   165 |     12.3 |       10.5 |              1.81 |
+| Fernando Alonso      |   363 |      8.6 |        6.9 |              1.68 |
+| Daniil Kvyat         |    90 |     12.3 |       10.6 |              1.67 |
+| Heikki Kovalainen    |    91 |     13.5 |       11.8 |              1.65 |
+| Adrian Sutil         |    89 |     14.0 |       12.5 |              1.55 |
+| Kimi Räikkönen       |   281 |      7.6 |        6.1 |              1.44 |
+| Alexander Albon      |   115 |     12.2 |       10.9 |              1.35 |
+| Michael Schumacher   |   150 |      5.7 |        4.4 |              1.31 |
+| Max Verstappen       |   214 |      4.8 |        3.6 |              1.21 |
++----------------------+-------+----------+------------+-------------------+
++------------------+-----------------+-------------+-----------------------+---------------------+
+| driver_name      | shared_finishes | times_ahead | pct_ahead_of_teammate | different_teammates |
++------------------+-----------------+-------------+-----------------------+---------------------+
+| Max Verstappen   |             182 |         153 |                  84.1 |                   8 |
+| Fernando Alonso  |             148 |         104 |                  70.3 |                   5 |
+| George Russell   |             137 |          89 |                  65.0 |                   5 |
+| Charles Leclerc  |             148 |          96 |                  64.9 |                   5 |
+| Alexander Albon  |              94 |          59 |                  62.8 |                   6 |
+| Lando Norris     |             139 |          87 |                  62.6 |                   3 |
+| Lewis Hamilton   |             231 |         134 |                  58.0 |                   4 |
+| Nico Hülkenberg  |             148 |          82 |                  55.4 |                   8 |
+| Pierre Gasly     |             139 |          77 |                  55.4 |                   7 |
+| Felipe Massa     |              59 |          32 |                  54.2 |                   2 |
+| Sebastian Vettel |             137 |          74 |                  54.0 |                   4 |
+| Romain Grosjean  |              78 |          39 |                  50.0 |                   3 |
+| Carlos Sainz     |             165 |          78 |                  47.3 |                   6 |
+| Esteban Ocon     |             151 |          71 |                  47.0 |                   6 |
+| Daniel Ricciardo |             149 |          70 |                  47.0 |                   7 |
++------------------+-----------------+-------------+-----------------------+---------------------+
++-----------------------+----------------+-----------+
+| full_name             | first_win_date | age_years |
++-----------------------+----------------+-----------+
+| Max Verstappen        | 2016-05-15     |     18.62 |
+| Andrea Kimi Antonelli | 2026-03-15     |     19.55 |
+| Sebastian Vettel      | 2008-09-14     |     21.20 |
+| Charles Leclerc       | 2019-09-01     |     21.88 |
+| Fernando Alonso       | 2003-08-24     |     22.07 |
+| Troy Ruttman          | 1952-05-30     |     22.22 |
+| Bruce McLaren         | 1959-12-12     |     22.28 |
+| Lewis Hamilton        | 2007-06-10     |     22.42 |
+| Oscar Piastri         | 2024-07-21     |     23.29 |
+| Kimi Räikkönen        | 2003-03-23     |     23.43 |
++-----------------------+----------------+-----------+
